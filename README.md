@@ -1,1 +1,1 @@
-# Data-Product
+# Assignment: Course Project: Shiny Application and Reproducible Pitch
